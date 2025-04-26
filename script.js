@@ -44,6 +44,7 @@ function addTask() {
     delBtn.onclick = function () {
         li.remove();
     };
+    delBtn.style.cursor="pointer";
 
     li.appendChild(checkbox);
     li.appendChild(span);
