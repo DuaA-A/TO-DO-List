@@ -1,0 +1,7 @@
+{
+    "mockApiResponse": [
+        { "id": 1, "task": "Learn JavaScript" },
+        { "id": 2, "task": "Write blog post" },
+        { "id": 3, "task": "Go for a run" }
+        ]
+}
